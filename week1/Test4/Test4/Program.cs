@@ -12,13 +12,12 @@ namespace Task4
         {
             string s = Console.ReadLine(); // Read the lenght of the square from Console
             int n = int.Parse(s); // convert s into int type number
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j <= i; j++)   //where j <= i put the symbol
-                {
-                    Console.Write("[]"); // the symbol []
+            for (int i = 0; i < n; i++) {
+
+                for (int j = 0; j <= i; j++) {
+                    Console.Write("[]");
                 }
-                Console.WriteLine(); // Go to the next row
+                Console.WriteLine();
             }
             Console.ReadKey();
         }

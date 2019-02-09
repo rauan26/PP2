@@ -4,3 +4,9 @@ C:\Users\HP\Desktop\C# test\Test4\Test4\bin\Debug\Test4.pdb
 C:\Users\HP\Desktop\C# test\Test4\Test4\obj\Debug\Test4.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\C# test\Test4\Test4\obj\Debug\Test4.exe
 C:\Users\HP\Desktop\C# test\Test4\Test4\obj\Debug\Test4.pdb
+C:\Users\HP\Desktop\C# test\week1\Test4\Test4\bin\Debug\Test4.exe.config
+C:\Users\HP\Desktop\C# test\week1\Test4\Test4\bin\Debug\Test4.exe
+C:\Users\HP\Desktop\C# test\week1\Test4\Test4\bin\Debug\Test4.pdb
+C:\Users\HP\Desktop\C# test\week1\Test4\Test4\obj\Debug\Test4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# test\week1\Test4\Test4\obj\Debug\Test4.exe
+C:\Users\HP\Desktop\C# test\week1\Test4\Test4\obj\Debug\Test4.pdb
