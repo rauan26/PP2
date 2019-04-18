@@ -10,12 +10,11 @@ namespace Task_2
 
             //read from file(START)
             FileStream fileStream = new FileStream(@"C:\Users\HP\Desktop\C# test\week2\task2\1.txt", FileMode.Open, FileAccess.Read);
-            StreamReader sr = new StreamReader(fileStream);
-
-            String str = sr.ReadLine();
-            //read from file(END)
-
-            String[] string1 = str.Split();//2 5 9
+            //filestream this like a key which open and show diroctoru of file
+            StreamReader sr = new StreamReader(fileStream);//streamreader this is read this file and save this in sr
+           
+            String[] string1 = sr.ReadLine().Split();
+            //read from file(END) //2 5 9
 
             int n = string1.Length;//3
             int[] arr = new int[n];

@@ -30,7 +30,7 @@ namespace task3
             if (file.GetType() == typeof(DirectoryInfo))
             {
                 var y = file as DirectoryInfo;
-                foreach (var x in y.EnumerateFileSystemInfos())
+                foreach (var x in y.EnumerateFileSystemInfos())//Returns an enumerable collection of file system information in the current directory.
                 {
                     PrintInfo(x, k + 3);
                 }
